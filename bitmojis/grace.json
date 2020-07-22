@@ -1,0 +1,27 @@
+{
+    "name": "Grace",
+    "gender": "female",
+    "traits": {
+      "brow": "769",
+      "cheek_details": "-1",
+      "eyelash": "-1",
+      "eye_details": "934",
+      "face_lines": "-1",
+      "glasses": "-1",
+      "hair": "1284",
+      "hat": "-1",
+      "mouth": "1056",
+      "nose": "762",
+      "blush_tone": "16754088",
+      "brow_tone": "7033126",
+      "eyeshadow_tone": "-1",
+      "hair_tone": "2039326",
+      "lipstick_tone": "12941689",
+      "pupil_tone": "5977116",
+      "skin_tone": "16443344",
+      "body": "7",
+      "breast": "3",
+      "face_proportion": "5"
+    },
+    "outfit": "1018470"
+  }
